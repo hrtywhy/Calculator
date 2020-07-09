@@ -9,5 +9,5 @@
 </p>
 
 ## Contribute
-Edit in testis folder and <b>form1.h</b> file
+Edit in <b>testis</b> folder and <b>form1.h</b> file
 
