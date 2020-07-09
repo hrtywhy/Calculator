@@ -5,6 +5,5 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/npm/dm/vuepress.svg" alt="Downloads"></a>
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]
 </p>
