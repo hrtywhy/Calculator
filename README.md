@@ -5,6 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-GUI-orange" alt="Downloads"></a>
+  <img src="https://img.shields.io/badge/C%2B%2B-GUI-orange"</a>
   <img src="https://img.shields.io/npm/l/vuepress.svg" alt="License"></a>
 </p>
