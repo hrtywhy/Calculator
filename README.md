@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://img.shields.io/badge/C%2B%2B-GUI-orange</a>
+  <img src="https://img.shields.io/badge/C%2B%2B-GUI-orange" alt="Downloads"></a>
   <a href="https://github.com/vuejs/vuepress/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/vuepress.svg" alt="License"></a>
-  <a href="https://discordapp.com/invite/HBherRA"><img src="https://img.shields.io/badge/Discord-join%20chat-738bd7.svg" alt="VuePress channel on Discord"></a>
 </p>
