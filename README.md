@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-GUI-orange"</a>
-  <img src="https://img.shields.io/npm/l/vuepress.svg" alt="License"></a>
+  <img src="https://github.com/planktonlaut/Calculator/workflows/C/C++%20CI/badge.svg"
   <img src="https://img.shields.io/badge/build-succes-blue" alt="build"<a>
   <img src="https://img.shields.io/badge/players-5-yellow" alt="player"<a>
-  <img src="https://github.com/planktonlaut/Calculator/workflows/C/C++%20CI/badge.svg"
+  
 </p>
