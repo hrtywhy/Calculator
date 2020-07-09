@@ -8,6 +8,8 @@
     <img width="480" src="https://user-images.githubusercontent.com/44236850/87004495-b5cdf000-c1e7-11ea-8dbb-159d63d98aa0.jpeg" alt="logo">
 </p>
 
-## Contribute
+## Contributors
+
+## How to Edit
 Edit in <b>testis</b> folder and <b>form1.h</b> file
 
