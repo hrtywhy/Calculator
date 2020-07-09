@@ -12,5 +12,5 @@
 To fulfill the final project in our college, we work and build together to create a calculator simple program with C++ based on GUI
 
 ## How to Edit
-Edit in <b>testis</b> folder and <b>form1.h</b> file
+Edit in `testis` folder and `form1.h`
 
