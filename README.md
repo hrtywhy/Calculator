@@ -9,5 +9,5 @@
   <img src="https://img.shields.io/npm/l/vuepress.svg" alt="License"></a>
   <img src="https://img.shields.io/badge/build-succes-blue" alt="build"<a>
   <img src="https://img.shields.io/badge/players-5-yellow" alt="player"<a>
-  ![C/C++ CI](https://github.com/planktonlaut/Calculator/workflows/C/C++%20CI/badge.svg)
+  <img src="[C/C++ CI](https://github.com/planktonlaut/Calculator/workflows/C/C++%20CI/badge.svg)"
 </p>
