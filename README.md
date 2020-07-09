@@ -7,5 +7,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-GUI-orange"</a>
   <img src="https://img.shields.io/npm/l/vuepress.svg" alt="License"></a>
-  <img alt="AppVeyor tests" src="https://img.shields.io/appveyor/tests/planktonlaut/Simple-Calculator?color=black&label=code&logo=logos&logoColor=pink">
 </p>
