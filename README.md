@@ -16,3 +16,7 @@ Edit in `testis` folder and `form1.h`
 
 ## Core of Code
 In Line `104 - 204` theres any boolean and declare to set the radio button `(hitung)`
+
+<p align="center">
+  <img width="480" src="https://user-images.githubusercontent.com/44236850/87247249-e67a8780-c47c-11ea-9d10-5498ccc6264c.PNG" alt="code">
+</p>
