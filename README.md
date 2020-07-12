@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"</a>
   <img src="https://img.shields.io/badge/C%2B%2B-GUI-orange"</a>
   <img src="https://github.com/planktonlaut/Calculator/workflows/C/C++%20CI/badge.svg"
   <img src="https://img.shields.io/badge/build-succes-blue" alt="build"<a>
