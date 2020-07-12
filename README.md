@@ -14,3 +14,5 @@ To fulfill the final project in our college, we work and build together to creat
 ## How to Edit
 Edit in `testis` folder and `form1.h`
 
+## Core of Code
+In Line `104 - 204` theres any boolean and declare to set the radio button `(hitung)`
