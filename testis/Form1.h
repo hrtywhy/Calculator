@@ -10,7 +10,7 @@ namespace CppCLRWinformsProjekt {
 	using namespace System::Drawing;
 
 	/// <summary>
-	/// Zusammenfassung für Form1
+	/// Zusammenfassung fÃ¼r Form1
 	/// </summary>
 	public ref class Form1 : public System::Windows::Forms::Form
 	{
@@ -19,7 +19,7 @@ namespace CppCLRWinformsProjekt {
 		{
 			InitializeComponent();
 			//
-			//TODO: Konstruktorcode hier hinzufügen.
+			//TODO: Konstruktorcode hier hinzufÃ¼gen.
 			//
 		}
 
@@ -53,8 +53,8 @@ namespace CppCLRWinformsProjekt {
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
-		/// Erforderliche Methode für die Designerunterstützung.
-		/// Der Inhalt der Methode darf nicht mit dem Code-Editor geändert werden.
+		/// Erforderliche Methode fÃ¼r die DesignerunterstÃ¼tzung.
+		/// Der Inhalt der Methode darf nicht mit dem Code-Editor geÃ¤ndert werden.
 		/// </summary>
 		void InitializeComponent(void)
 		{
@@ -214,3 +214,4 @@ private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e
 }
 };
 }
+
