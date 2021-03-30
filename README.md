@@ -14,7 +14,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8ba3c236729e43308f5f35e0d636c198)](https://app.codacy.com/gh/hrtywhy/Calculator?utm_source=github.com&utm_medium=referral&utm_content=hrtywhy/Calculator&utm_campaign=Badge_Grade_Settings)
 
 
-To fulfill the final project in our college, we work and build together to create a calculator simple program with C++ based on GUI
+Simple calculator GUI based on C++
 
 ## How to Edit
 Edit in `testis` folder and `form1.h`
