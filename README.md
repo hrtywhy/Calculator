@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/players-5-yellow" alt="player"<a>
 </p>
 <p align="center">
-    <img width="480" src="https://user-images.githubusercontent.com/44236850/87004495-b5cdf000-c1e7-11ea-8dbb-159d63d98aa0.jpeg" alt="logo">
+    <img width="480" src="https://user-images.githubusercontent.com/44236850/122079463-a1e33300-ce27-11eb-9a78-3172ec86129f.png" alt="logo">
 </p>
 
 ## Introduction
@@ -23,8 +23,6 @@ Edit in `testis` folder and `form1.h`
 In Line `104 - 204` theres any boolean and declare to set the radio button `(hitung)`
 
 <p align="center">
-  <img width="1080" src="https://user-images.githubusercontent.com/44236850/87247249-e67a8780-c47c-11ea-9d10-5498ccc6264c.PNG" alt="code">
+  <img width="1080" src="https://user-images.githubusercontent.com/44236850/122078851-15387500-ce27-11eb-9bbf-d54d9a0b0ecf.png
+" alt="code">
 </p>
-
-## License
-
