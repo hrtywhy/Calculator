@@ -23,6 +23,5 @@ Edit in `testis` folder and `form1.h`
 In Line `104 - 204` theres any boolean and declare to set the radio button `(hitung)`
 
 <p align="center">
-  <img width="1080" src="https://user-images.githubusercontent.com/44236850/122078851-15387500-ce27-11eb-9bbf-d54d9a0b0ecf.png
-" alt="code">
+  <img width="1080" src="https://user-images.githubusercontent.com/44236850/122078851-15387500-ce27-11eb-9bbf-d54d9a0b0ecf.png">
 </p>
